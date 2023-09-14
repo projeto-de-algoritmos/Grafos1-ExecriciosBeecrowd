@@ -8,7 +8,7 @@ Temas:
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0085045  |  Brenno da Silva Oliveira |
 | 19/0087501  |  Gabriel Marcolino Rodrigues |
 
 ## Sobre 
