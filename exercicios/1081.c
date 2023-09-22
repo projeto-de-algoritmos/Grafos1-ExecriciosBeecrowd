@@ -3,11 +3,6 @@
 #include <string.h>
 #include <stdbool.h>
 
-/**
- * Nome: Gabriel Marcolino Rodrigues
- * Matrícula: 190087501
-*/
-
 #define TAM 30
 
 bool flag;

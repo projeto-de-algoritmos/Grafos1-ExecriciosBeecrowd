@@ -16,8 +16,7 @@ Tema:
 Exercícios resolvidos dos juizes online Beecrowd e LeetCode. Foram resolvidos os seguintes exercícios:
 
 - [DFSr - Hierarquia de Profundidade](https://www.beecrowd.com.br/repository/UOJ_1081.html)
-
-Sendo que os exercícios do Beecrowd foram de uma dificuldade fácil e o do Leetcode tem uma dificuldade difícil.
+- [Componentes Conectados](https://www.beecrowd.com.br/repository/UOJ_1082.html)
 
 ## Screenshots
 
