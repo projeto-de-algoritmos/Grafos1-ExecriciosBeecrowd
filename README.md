@@ -18,6 +18,7 @@ Exercícios resolvidos dos juizes online Beecrowd e LeetCode. Foram resolvidos o
 - [DFSr - Hierarquia de Profundidade](https://www.beecrowd.com.br/repository/UOJ_1081.html)
 - [Componentes Conectados](https://www.beecrowd.com.br/repository/UOJ_1082.html)
 - [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)
+- [Desenhando Labirintos](https://www.beecrowd.com.br/repository/UOJ_1076.html)
 
 ## Screenshots
 
