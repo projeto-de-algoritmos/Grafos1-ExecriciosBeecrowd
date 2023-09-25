@@ -13,7 +13,7 @@ Tema:
 
 ## Sobre
 
-Exercícios resolvidos dos juizes online Beecrowd e LeetCode. Foram resolvidos os seguintes exercícios:
+Exercícios resolvidos dos juizes online Beecrowd e LeetCode. Foram resolvidos os seguintes exercícios, sendo eles 3 do Beecroew de nível 5 e um do LeetCode de nível difícil:
 
 > [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)<br>
 > [1076 - Desenhando Labirintos](https://www.beecrowd.com.br/repository/UOJ_1076.html)<br>
@@ -36,6 +36,9 @@ Exercícios resolvidos dos juizes online Beecrowd e LeetCode. Foram resolvidos o
 Para rodar os exercícios basta clonar o respositório e executar os seguintes comandos dentro da pasta do arquivo pelo terminal:
 
     gcc -o nome_arquivo nome_arquivo.c
+
+<br>
+
     ./nome_arquivo.exe < nome_arquivo.txt
 
 Outra forma é subtmeter os códigos dos exercícios pelo juiz online:
@@ -47,6 +50,5 @@ Outra forma é subtmeter os códigos dos exercícios pelo juiz online:
 
 ## Outros
 
-Colocar o link do vídeo no YouTUbe não listado
+[Vídeo de apresentação](https://youtu.be/_8WZiVterao)
 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
